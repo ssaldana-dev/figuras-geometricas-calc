@@ -1,0 +1,11 @@
+Crear una interfaz cómoda y bonita.
+
+Imprimir los resultados en el HTML.
+
+Crear las figuras desde JS moviendo las propiedades HTML 
+y CSS para que estas tomen la forma de la figura que se 
+está calculando (a escala).
+
+Añadir otras figuras geométricas y otros cálculos que se 
+puedan sacar a partir de los inputs. ej: área a partir de 
+un cateto y ángulos del triángulo.
